@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637728454570101120
-    m_Hash: 3595403810
+      ticks: 637757970057288807
+    m_Hash: 3518486558
   m_LockFileStatus:
     m_FilePath: C:/Users/7797864896/UnityProjects/2D Practice/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637728454570335850
-    m_Hash: 4072073503
+      ticks: 637757970313151234
+    m_Hash: 3555815148
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
@@ -126,6 +126,7 @@ m_PackageAssets:
         - 3.2.11
         - 3.2.13
         - 3.2.14
+        - 3.2.15
         - 4.0.0
         - 4.0.1
         - 4.1.0
@@ -147,6 +148,7 @@ m_PackageAssets:
         - 5.0.7
         - 5.0.8
         - 5.0.9
+        - 5.0.10
         - 6.0.0-pre.1
         - 6.0.0-pre.2
         - 6.0.1
@@ -159,10 +161,13 @@ m_PackageAssets:
         - 7.0.0
         - 7.0.1
         - 7.0.2
+        - 7.0.3
         - 8.0.0-pre.3
+        - 8.0.0-pre.4
         compatible:
         - 5.0.9
-        verified: 5.0.9
+        - 5.0.10
+        verified: 5.0.10
       dependencies:
       - name: com.unity.2d.common
         version: 4.0.3
@@ -349,6 +354,7 @@ m_PackageAssets:
         - 4.1.0
         - 4.1.1
         - 4.1.2
+        - 4.1.3
         - 5.0.0-pre.1
         - 5.0.0-pre.2
         - 5.0.1
@@ -360,10 +366,13 @@ m_PackageAssets:
         - 6.0.0-pre.4
         - 6.0.0
         - 6.0.1
+        - 6.0.2
         - 7.0.0-pre.3
+        - 7.0.0-pre.4
         compatible:
         - 4.1.2
-        verified: 4.1.2
+        - 4.1.3
+        verified: 4.1.3
       dependencies:
       - name: com.unity.2d.common
         version: 4.0.3
@@ -467,12 +476,12 @@ m_PackageAssets:
         url: 
         revision: 
         path: 
-    - packageId: com.unity.2d.spriteshape@5.1.5
+    - packageId: com.unity.2d.spriteshape@5.1.6
       testable: 0
       isDirectDependency: 1
-      version: 5.1.5
+      version: 5.1.6
       source: 1
-      resolvedPath: C:\Users\7797864896\UnityProjects\2D Practice\Library\PackageCache\com.unity.2d.spriteshape@5.1.5
+      resolvedPath: C:\Users\7797864896\UnityProjects\2D Practice\Library\PackageCache\com.unity.2d.spriteshape@5.1.6
       assetPath: Packages/com.unity.2d.spriteshape
       name: com.unity.2d.spriteshape
       displayName: 2D SpriteShape
@@ -521,6 +530,7 @@ m_PackageAssets:
         - 3.0.15
         - 3.0.16
         - 3.0.17
+        - 3.0.18
         - 4.0.0
         - 4.0.1
         - 4.0.2
@@ -541,6 +551,7 @@ m_PackageAssets:
         - 5.1.4
         - 5.1.5
         - 5.1.6
+        - 5.1.7
         - 6.0.0-pre.1
         - 6.0.0-pre.2
         - 6.0.0
@@ -552,10 +563,11 @@ m_PackageAssets:
         - 7.0.2
         - 7.0.3
         - 8.0.0-pre.4
+        - 8.0.0-pre.5
         compatible:
-        - 5.1.5
         - 5.1.6
-        verified: 5.1.6
+        - 5.1.7
+        verified: 5.1.7
       dependencies:
       - name: com.unity.mathematics
         version: 1.1.0
@@ -605,13 +617,13 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637684997050000000
+      datePublishedTicks: 637726547470000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/2d.git
-        revision: f2df77302616ee97ac0bda980859324394e44df3
+        revision: ef91f338b560d2963aabc2305104295701c5fecd
         path: 
     - packageId: com.unity.2d.tilemap@1.0.0
       testable: 0
@@ -663,12 +675,12 @@ m_PackageAssets:
         url: 
         revision: 
         path: 
-    - packageId: com.unity.collab-proxy@1.13.5
+    - packageId: com.unity.collab-proxy@1.15.4
       testable: 0
       isDirectDependency: 1
-      version: 1.13.5
+      version: 1.15.4
       source: 1
-      resolvedPath: C:\Users\7797864896\UnityProjects\2D Practice\Library\PackageCache\com.unity.collab-proxy@1.13.5
+      resolvedPath: C:\Users\7797864896\UnityProjects\2D Practice\Library\PackageCache\com.unity.collab-proxy@1.15.4
       assetPath: Packages/com.unity.collab-proxy
       name: com.unity.collab-proxy
       displayName: Version Control
@@ -715,8 +727,10 @@ m_PackageAssets:
         - 1.13.5
         - 1.14.1
         - 1.14.4
+        - 1.14.7
         - 1.15.1
         - 1.15.4
+        - 1.15.7
         - 2.0.0-preview.6
         - 2.0.0-preview.8
         - 2.0.0-preview.15
@@ -728,11 +742,8 @@ m_PackageAssets:
         - 2.1.0-preview.5
         - 2.1.0-preview.6
         compatible:
-        - 1.13.5
-        - 1.14.1
-        - 1.14.4
-        - 1.15.1
         - 1.15.4
+        - 1.15.7
         - 2.0.0-preview.6
         - 2.0.0-preview.8
         - 2.0.0-preview.15
@@ -743,7 +754,7 @@ m_PackageAssets:
         - 2.1.0-preview.3
         - 2.1.0-preview.5
         - 2.1.0-preview.6
-        verified: 1.13.5
+        verified: 1.15.7
       dependencies:
       - name: com.unity.nuget.newtonsoft-json
         version: 2.0.0
@@ -782,13 +793,13 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637685076530000000
+      datePublishedTicks: 637726568460000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/com.unity.cloud.collaborate.git
-        revision: 4001806dc89b25276d1382d5abffd71731b030e5
+        revision: 1275603954ad33bee601fe2c9a3c787b3d4e4c6b
         path: 
     - packageId: com.unity.ide.rider@2.0.7
       testable: 0
@@ -897,12 +908,12 @@ m_PackageAssets:
         url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.rider.git
         revision: abb44f053e9a41d2e00e149e32a19bcec76e98b4
         path: 
-    - packageId: com.unity.ide.visualstudio@2.0.11
+    - packageId: com.unity.ide.visualstudio@2.0.12
       testable: 0
       isDirectDependency: 1
-      version: 2.0.11
+      version: 2.0.12
       source: 1
-      resolvedPath: C:\Users\7797864896\UnityProjects\2D Practice\Library\PackageCache\com.unity.ide.visualstudio@2.0.11
+      resolvedPath: C:\Users\7797864896\UnityProjects\2D Practice\Library\PackageCache\com.unity.ide.visualstudio@2.0.12
       assetPath: Packages/com.unity.ide.visualstudio
       name: com.unity.ide.visualstudio
       displayName: Visual Studio Editor
@@ -978,13 +989,13 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637613656180000000
+      datePublishedTicks: 637720564750000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.visualstudio.git
-        revision: 680e06d94ffca728223ae2cb14bb919cd354e2c1
+        revision: 8d436ff053b9c59677b5e9799208143553cd02d9
         path: 
     - packageId: com.unity.ide.vscode@1.2.4
       testable: 0
@@ -3443,6 +3454,7 @@ m_PackageAssets:
         - 1.1.0-pre.9
         - 1.1.0-pre.10
         - 1.1.0-pre.11
+        - 1.1.0-pre.41
         compatible:
         - 1.0.1
         - 1.1.0-pre.7
@@ -3450,6 +3462,7 @@ m_PackageAssets:
         - 1.1.0-pre.9
         - 1.1.0-pre.10
         - 1.1.0-pre.11
+        - 1.1.0-pre.41
         verified: 1.0.1
       dependencies:
       - name: com.unity.modules.unitywebrequest
@@ -3594,6 +3607,7 @@ m_PackageAssets:
         - 4.0.1
         - 4.0.2
         - 4.0.3
+        - 4.0.4
         - 5.0.0-pre.1
         - 5.0.0-pre.2
         - 5.0.0
@@ -3602,10 +3616,13 @@ m_PackageAssets:
         - 6.0.0-pre.4
         - 6.0.0
         - 6.0.1
+        - 6.0.2
         - 7.0.0-pre.3
+        - 7.0.0-pre.4
         compatible:
         - 4.0.3
-        verified: 4.0.3
+        - 4.0.4
+        verified: 4.0.4
       dependencies:
       - name: com.unity.2d.sprite
         version: 1.0.0
@@ -3718,4 +3735,4 @@ m_PackageAssets:
   m_LocalPackages:
     m_LocalFileStatus: []
 m_ProjectPath: C:/Users/7797864896/UnityProjects/2D Practice/Packages
-m_EditorVersion: 2020.3.22f1 (e1a7f79fd887)
+m_EditorVersion: 2020.3.25f1 (9b9180224418)
